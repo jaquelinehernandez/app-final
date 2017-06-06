@@ -2,13 +2,13 @@
 
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id = "com.phonegap.example9"
+   id = "com.phonegap.example final"
    version = "1.0.0">
    
-   <name>app9 (GEOLOCALIZACION)</name>
+   <name>app final carreras universitarias)</name>
    
    <description>
-   Alicacion que muestra tu ubicacion
+   Alicacion que muestra algunas carreras  que puedes estudiar
    </description>
    
    <author href="https://build.phonegap.com" email="jaqueline.hernandeez.cbtis16@gmail.com">
@@ -32,12 +32,12 @@
    
    <plugin name="cordova-plugin-geolocation" source="npm" /> 
    <!--Third party plugins1 -->
-     <!--Para accesar a páginas en internet
+     Para accesar a páginas en internet
    <allow-intent href="https://*/*"/>
    <acces origin="https://*/*"/>
    <allow-intent href="http://*/*"/>
    <acces origin="http://*/*"/>
-   <plugin name="cordova-plugin-whitelist" source="npm"/>-->
+   <plugin name="cordova-plugin-whitelist" source="npm"/>
    
    <!--Colocar icono app-->
    <icon src="res/android/mdpi.png"/>
